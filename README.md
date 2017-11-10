@@ -8,7 +8,7 @@ This repository contains the name of the packages and libraries I install and us
 3. pip: `sudo apt install python-pip`
 4. hexchat: 'sudo apt install hexchat`
 5. weechat: `sudo apt install weechat`
-6.
+6. wireshark: `sudo apt install wireshark`
 
 ## Libraries
 
