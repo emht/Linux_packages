@@ -9,6 +9,7 @@ This repository contains the name of the packages and libraries I install and us
 4. hexchat: 'sudo apt install hexchat`
 5. weechat: `sudo apt install weechat`
 6. wireshark: `sudo apt install wireshark`
+7. psensor: `sudo apt install psensor`
 
 ## Libraries
 
