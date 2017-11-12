@@ -10,6 +10,7 @@ This repository contains the name of the packages and libraries I install and us
 5. weechat: `sudo apt install weechat`
 6. wireshark: `sudo apt install wireshark`
 7. psensor: `sudo apt install psensor`
+8. tasksel: `sudo apt isntall tasksel`
 
 ## Libraries
 
