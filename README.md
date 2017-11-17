@@ -12,6 +12,10 @@ This repository contains the name of the packages and libraries I install and us
 7. psensor: `sudo apt install psensor`
 8. tasksel: `sudo apt isntall tasksel`
 9. testdisk: `sudo apt install testdisk`
+10. LXC: `sudo apt install lxc`
+11. Docker: ``
+12. htop: `sudo apt install htop`
+13. calendar: "calendar is preinstalled on linux based distributions."
 
 ## Libraries
 
