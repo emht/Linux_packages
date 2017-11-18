@@ -16,6 +16,8 @@ This repository contains the name of the packages and libraries I install and us
 11. Docker: ``
 12. htop: `sudo apt install htop`
 13. calendar: "calendar is preinstalled on linux based distributions."
+14. Music Player: "sudo apt install ffmpeg" (ffplay example.mp3)
+15. Google Text-to-Speech(gTTS): `sudo apt install gTTS`
 
 ## Libraries
 
