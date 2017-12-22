@@ -20,6 +20,7 @@ This repository contains the name of the packages and libraries I install and us
 15. Google Text-to-Speech(gTTS): `sudo apt install gTTS`
 16. Debootstrap: `sudo apt install debootstrap`
 17. Nmap: `sudo apt install nmap`
+18. Netstat: `sudo apt install netstat`
 
 ### Web Development
 16. NPM: `...`
