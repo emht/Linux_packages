@@ -19,6 +19,7 @@ This repository contains the name of the packages and libraries I install and us
 14. Music Player: "sudo apt install ffmpeg" (ffplay example.mp3)
 15. Google Text-to-Speech(gTTS): `sudo apt install gTTS`
 16. Debootstrap: `sudo apt install debootstrap`
+17. Nmap: `sudo apt install nmap`
 
 ### Web Development
 16. NPM: `...`
