@@ -21,6 +21,7 @@ This repository contains the name of the packages and libraries I install and us
 16. Debootstrap: `sudo apt install debootstrap`
 17. Nmap: `sudo apt install nmap`
 18. Netstat: `sudo apt install netstat`
+19. Omxplayer: `sudo apt install omxplayer`
 
 ### Web Development
 16. NPM: `...`
