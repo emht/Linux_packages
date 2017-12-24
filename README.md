@@ -24,6 +24,8 @@ This repository contains the name of the packages and libraries I install and us
 19. Omxplayer: `sudo apt install omxplayer`
 20. VLC: `sudo apt insall vlc`
 21. RecordMyDesktop: `sudo apt install gtk-recordmydesktop`
+22. Kazam: `sudo apt install kazam`
+23. Kdenlive: `sudo apt install kdenlive`
 
 ### Web Development
 16. NPM: `...`
