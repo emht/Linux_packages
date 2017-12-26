@@ -2,7 +2,7 @@ Linux_Packages
 ==============
 This repository contains the name of the packages and libraries I install and use in my day to day life to help me install them again when I change my distribution.
 
-## Packages
+## Utility Packages
 1. vim: `sudo apt install vim`
 2. git: `sudo apt install git`
 3. pip: `sudo apt install python-pip`
@@ -26,6 +26,7 @@ This repository contains the name of the packages and libraries I install and us
 21. RecordMyDesktop: `sudo apt install gtk-recordmydesktop`
 22. Kazam: `sudo apt install kazam`
 23. Kdenlive: `sudo apt install kdenlive`
+24. TerminalTorrent Client: `sudo apt install rtorrent`
 
 ### Web Development
 16. NPM: `...`
