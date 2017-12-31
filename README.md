@@ -6,7 +6,7 @@ This repository contains the name of the packages and libraries I install and us
 1. vim: `sudo apt install vim`
 2. git: `sudo apt install git`
 3. pip: `sudo apt install python-pip`
-4. hexchat: 'sudo apt install hexchat`
+4. hexchat: `sudo apt install hexchat`
 5. weechat: `sudo apt install weechat`
 6. wireshark: `sudo apt install wireshark`
 7. psensor: `sudo apt install psensor`
@@ -27,6 +27,10 @@ This repository contains the name of the packages and libraries I install and us
 22. Kazam: `sudo apt install kazam`
 23. Kdenlive: `sudo apt install kdenlive`
 24. TerminalTorrent Client: `sudo apt install rtorrent`
+25. discount(Mardown to html): `sudo apt install discount`
+26. screenfetch: `sudo apt install screenfetch`
+27. htop: `sudo apt install htop`
+28. emacs: `sudo apt install emacs`
 
 ### Web Development
 16. NPM: `...`
