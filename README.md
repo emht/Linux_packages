@@ -39,3 +39,7 @@ This repository contains the name of the packages and libraries I install and us
 
 ## Presentation Tools
 1. doitlive: https://github.com/sloria/doitlive
+
+## Android Related (Rooting, App-dev, Custom-Rom)
+1. adb: `sudo apt install adb`
+2. sdk: ``
