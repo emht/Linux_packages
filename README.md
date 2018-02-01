@@ -34,6 +34,7 @@ This repository contains the name of the packages and libraries I install and us
 29. gscan2pdf: `sudo apt install gscan2pdf`
 30. virtualenv: `sudo apt install virtualenv`
 31. Tmux: `sudo apt install tmux`
+32. zathura: `sudo apt install zathura`
 
 ### Web Development
 16. NPM: `...`
