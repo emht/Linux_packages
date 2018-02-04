@@ -56,3 +56,5 @@ This repository contains the name of the packages and libraries I install and us
 								sudo apt-get update \
 								sudo apt-get install vidcutter`
 
+## Sound / Voice Recorders
+1. alsamixer: `sudo apt install sox` [link](http://www.upubuntu.com/2013/05/how-to-record-your-voice-from.html)
