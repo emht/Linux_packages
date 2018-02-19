@@ -36,6 +36,9 @@ This repository contains the name of the packages and libraries I install and us
 ### Web Development
 16. NPM: `...`
 
+### Machine Learning Software
+* Octave: `sudo apt update && sudo apt install octave`
+
 ## Libraries
 * Asciidoc: `from tar on their website`
 
@@ -47,7 +50,6 @@ This repository contains the name of the packages and libraries I install and us
 2. sdk: ``
 
 ## Video Editors / Screen Recorders
-
 1. Omxplayer: `sudo apt install omxplayer`
 2. VLC: `sudo apt insall vlc`
 3. RecordMyDesktop: `sudo apt install gtk-recordmydesktop`
