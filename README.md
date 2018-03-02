@@ -2,6 +2,10 @@ Linux_Packages
 ==============
 This repository contains the name of the packages and libraries I install and use in my day to day life to help me install them again when I change my distribution.
 
+## Sys Admin
+* tor: `sudo apt install tor`
+* dhcp server: `sudo apt install dhcp3-server`
+
 ## Utility Packages
 1. vim: `sudo apt install vim`
 2. git: `sudo apt install git`
@@ -32,7 +36,6 @@ This repository contains the name of the packages and libraries I install and us
 27. zathura: `sudo apt install zathura`
 28. Display: `preinstalled on debian`
 29. xdg-open: `To open a file, double-click`
-30. dhcp server: `sudo apt install dhcp3-server`
 
 ### Web Development
 16. NPM: `...`
