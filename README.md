@@ -32,6 +32,7 @@ This repository contains the name of the packages and libraries I install and us
 27. zathura: `sudo apt install zathura`
 28. Display: `preinstalled on debian`
 29. xdg-open: `To open a file, double-click`
+30. dhcp server: `sudo apt install dhcp3-server`
 
 ### Web Development
 16. NPM: `...`
