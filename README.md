@@ -5,6 +5,8 @@ This repository contains the name of the packages and libraries I install and us
 ## Sys Admin
 * tor: `sudo apt install tor`
 * dhcp server: `sudo apt install dhcp3-server`
+* debootstrap: `sudo apt install debootstrap`
+* febootstrap: `sudo apt install febootstrap`
 
 ## Utility Packages
 1. vim: `sudo apt install vim`
