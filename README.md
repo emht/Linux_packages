@@ -3,6 +3,7 @@ Linux_Packages
 This repository contains the name of the packages and libraries I install and use in my day to day life to help me install them again when I change my distribution.
 
 ## Sys Admin
+* POSIX: `sudo apt install manpages-posix-dev`
 * tor: `sudo apt install tor`
 * dhcp server: `sudo apt install dhcp3-server`
 * debootstrap: `sudo apt install debootstrap`
@@ -67,3 +68,8 @@ This repository contains the name of the packages and libraries I install and us
 
 ## Sound / Voice Recorders
 1. alsamixer: `sudo apt install sox` [link](http://www.upubuntu.com/2013/05/how-to-record-your-voice-from.html)
+
+
+## Python
+* Setup-tools: `sudo apt install python3-setuptools`
+* cheat: `pip install --user cheat`
